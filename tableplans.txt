@@ -1,0 +1,7 @@
+table #1
+popular collections by volume(updated 24h)
+rank(int)	collection_name(string)	24h_volume(float)	date
+
+table #2
+main table(updated 5min)
+volume(float)	#listed(int)	outlier(boloean)	floor_price(float)	collection_name(string)	timestamp
